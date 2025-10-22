@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzYxdHBpaDNnd3Nmanl2aDJoeGR3d2J2d2NjMjZjb3BwMDlodnh5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ilai-pingle-72b391342/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -37,4 +37,4 @@ Fast learner, team player, and detail-oriented; open to student software roles.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaip100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaip100&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
