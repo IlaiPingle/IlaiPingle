@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 Computer Science B.Sc. student at Bar-Ilan University.  
-Hands-on with C/C++, Java, Python, and JavaScript—into backend, full-stack, and systems programming.  
+Hands-on with C/C++, Java, Python, and JavaScript-into backend, full-stack, and systems programming.  
 Fast learner, team player, and detail-oriented; open to student software roles.
 
 ---
