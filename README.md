@@ -38,4 +38,4 @@ Fast learner, team player, and detail-oriented; open to student software roles.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaip100&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlaiPingle&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
